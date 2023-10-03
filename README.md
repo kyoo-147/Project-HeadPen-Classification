@@ -19,5 +19,5 @@ Reqs:
 Usage: ( recomment: using python >= 3.8.3)
 `python X_Main.py`
 
-- 🤝 Fiver [Link Demo Youtube](https://www.youtube.com/watch?v=JOn-x8bD7bk)
+[Link Demo Youtube](https://www.youtube.com/watch?v=JOn-x8bD7bk)
  <img alt="banner" style="width:100vw" src="asset\1.png">
