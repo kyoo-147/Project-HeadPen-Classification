@@ -1,5 +1,5 @@
 # Dự án Phân Loại Ngòi Bút Bi - Công Nghiệp
-
+----Phát Triển: Bùi Minh Cường - NaVin Tech-----
 ## X_Project_ButBi
 X_Project_ButBi là một ứng dụng được kết nối và hợp tác cùng doanh nghiệp sản xuất bút bi. Nhằm tự động hóa quy trình sản xuất và phân loại bút bi.
 
